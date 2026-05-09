@@ -1,5 +1,4 @@
-## Hi there 👋
-[
+## Spencer Marcu
 <!--
 ](https://github.com/SpencerMarcu-Spencer-Marcu/.github/new/SpencerMarcu?org_profile_readme=1#hi-there-)
 **Here are some ideas to get you started:**
