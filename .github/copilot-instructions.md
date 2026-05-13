@@ -1,8 +1,8 @@
 This repository is for Spencer Marcu, an American singer-songwriter. Do not assume the presence of a Node.js application, Azure Web Apps deployment, or npm-based build/test scripts unless the corresponding files are present in the repository.
 
 ## Repository Structure
-- `README.md` – Project overview and general documentation
-- `.github/` – Repository automation and Copilot-related configuration
+- `SpencerMarcu.md` – Project overview and general documentation
+- `.github/spencermarcu` – Repository automation and Copilot-related configuration
 
 ## Development Guidelines
 
